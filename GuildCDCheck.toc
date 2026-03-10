@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: GuildCDCheck
+## Version: 1.1
+## Author: Xaos
+## SavedVariables: RAID_DATA_CACHE
+
+Data.lua
+GuildCDCheck.lua
